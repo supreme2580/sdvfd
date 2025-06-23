@@ -1,5 +1,3 @@
-import { Abi } from "@starknet-react/core";
-
 export const vault_abi = [
     {
       "name": "VaultImpl",
