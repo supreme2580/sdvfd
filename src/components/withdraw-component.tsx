@@ -61,7 +61,7 @@ export default function WithdrawComponent() {
                         <h4 className="text-3xl text-white">-</h4>
                         <div className="flex flex-row items-center justify-center space-x-1">
                             <EthereumIcon />
-                            <h4 className="text-2xl text-white">xETH</h4>
+                            <h4 className="text-2xl text-white">ETH</h4>
                         </div>
                     </div>
                 </div>
